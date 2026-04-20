@@ -20,7 +20,7 @@ View the Tableau dashboard here:
 https://public.tableau.com/views/bitcoin-network-activity-dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 This is an overview
-![Dashboard](visuals/Tableau_Overview.png)
+![Dashboard](Visuals/Tableau Overview.png)
 
 ## Project Files
 - Case study report  
